@@ -315,7 +315,7 @@
                         "submit"
                       ],
                       "topRow": 8,
-                      "bottomRow": 12,
+                      "bottomRow": 22,
                       "tooltip": "rtery",
                       "parentRowSpace": 10,
                       "type": "ICON_BUTTON_WIDGET",
@@ -339,7 +339,7 @@
                       "isDisabled": false,
                       "key": "sda34arltw",
                       "isDeprecated": false,
-                      "rightColumn": 20,
+                      "rightColumn": 19,
                       "iconName": "plus",
                       "widgetId": "die01dl9rc",
                       "isVisible": true,
@@ -364,6 +364,7 @@
                       "hideCard": false,
                       "animateLoading": true,
                       "parentColumnSpace": 7.2109375,
+                      "dynamicTriggerPathList": [],
                       "leftColumn": 25,
                       "dynamicBindingPathList": [
                         {
@@ -371,20 +372,7 @@
                         }
                       ],
                       "labelPosition": "Top",
-                      "options": [
-                        {
-                          "label": "Blue",
-                          "value": "BLUE"
-                        },
-                        {
-                          "label": "Green",
-                          "value": "GREEN"
-                        },
-                        {
-                          "label": "Red",
-                          "value": "RED"
-                        }
-                      ],
+                      "options": "[\n  {\n    \"label\": \"Blue\",\n    \"value\": \"BLUE\"\n  },\n  {\n    \"label\": \"trest\",\n    \"value\": \"GREEN\"\n  },\n  {\n    \"label\": \"Red\",\n    \"value\": \"RED\"\n  }\n]",
                       "isDisabled": false,
                       "key": "u0l3w6usxo",
                       "labelTextSize": "0.875rem",
